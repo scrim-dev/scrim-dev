@@ -1,8 +1,10 @@
 ## <p align="center"> Welcome to my profile 👋 </p>
 
+<p align="center">
 Hello my name is Scrim but I also go by Scrimmane <br>
 I'm 18 year old solo developer just having fun <br>
 I'm also a video editor and GFX artist
+</p>
 
 ### <p align="center"> Programs and Languages I'm good at: </p>
 
