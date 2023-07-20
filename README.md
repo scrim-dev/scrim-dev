@@ -1,16 +1,15 @@
-### Hi there 👋
+## <p align="center"> Welcome to my profile 👋 </p>
 
-<!--
-**scrim-dev/scrim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello my name is Scrim but I also go by Scrimmane <br>
+I'm 18 year old solo developer just having fun <br>
+I'm also a video editor and GFX artist
 
-Here are some ideas to get you started:
+### <p align="center"> Programs and Languages I'm good at: </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,blender,cs,dotnet,unity,ps" />
+  </a>
+</p>
+
+## <p align="center"> ![](https://komarev.com/ghpvc/?username=scrim-dev&style=for-the-badge&color=dc143c) </p>
