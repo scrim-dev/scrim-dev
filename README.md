@@ -2,7 +2,7 @@
 
 <p align="center">
 Hello my name is Scrim but I also go by Scrimmane <br>
-I'm a 18 year old solo developer just having fun <br>
+I'm a 19 year old solo developer just having fun <br>
 I'm also a video editor and GFX artist
 </p>
 
