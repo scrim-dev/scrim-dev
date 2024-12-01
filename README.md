@@ -12,7 +12,7 @@ I hope you find my projects useful!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,blender,cs,dotnet,unity,ps" />
+    <img src="https://skillicons.dev/icons?i=ae,blender,cs,dotnet,unity,ps,html,js,css" />
   </a>
 </p>
 
