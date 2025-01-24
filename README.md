@@ -15,9 +15,3 @@ I hope you find my projects useful!
     <img src="https://skillicons.dev/icons?i=ae,blender,cs,dotnet,unity,ps,html,js,css" />
   </a>
 </p>
-
-## <p align="center"> ![](https://komarev.com/ghpvc/?username=scrim-dev&style=for-the-badge&color=dc143c) </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scrim-dev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Scrim's GitHub Stats" />
-</p>
