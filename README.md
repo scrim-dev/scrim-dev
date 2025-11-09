@@ -8,10 +8,10 @@ Add me on discord (I love making new friends) <br>
 I hope you find my projects useful!
 </p>
 
-### <p align="center"> Programs and Languages I'm good at: </p>
+### <p align="center">My Specialties</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,blender,cs,dotnet,unity,ps,html,js,css" />
+    <img src="https://skills.syvixor.com/api/icons?i=ae,blender,csharp,dotnet,unity,ps,html,js,css,cursor,cpp" />
   </a>
 </p>
